@@ -79,5 +79,3 @@ form.addEventListener("submit", (e) => {
     alert("Tabriklayman siz ma`lumotlarni muvaffaqiyatli qo`shdingiz!");
   }
 });
-
-// filter qo`shishim kerak va inputlarga cheklov qo`yishim kerak turli simvo`llarni kiritmaydigan qilib
